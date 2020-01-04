@@ -3,7 +3,6 @@ package windows;
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
-import net.miginfocom.swing.MigLayout;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 
@@ -13,6 +12,7 @@ import javax.swing.JTextField;
 
 import dao.BookDao;
 import entity.Book;
+import net.miginfocom.swing.MigLayout;
 
 import java.awt.event.ActionListener;
 import java.util.List;
